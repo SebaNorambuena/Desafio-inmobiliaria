@@ -1,7 +1,7 @@
 export const propiedades_venta = [
     {
         nombre: 'Casa con vista al mar',
-        src: '../assets/img/casa_playa_venta.jpeg',
+        src: '../../../assets/img/casa_playa_venta.jpeg',
         descripcion: 'Esta casa con una hermosa vista al mar es de las mas cotizadas apresurate!',
         ubicacion: '123 Main Street,Anytown, CA 91234',
         habitaciones: 2,
@@ -12,7 +12,7 @@ export const propiedades_venta = [
     },
     {
         nombre: 'Lujosa casa de madera de roble',
-        src: '../assets/img/casa_minecraft_venta.jpeg',
+        src: '../../../assets/img/casa_minecraft_venta.jpeg',
         descripcion: 'Hermosa y lujosa casa en el videojuego mas popular del mundo',
         ubicacion: 'Coordenadas, x -10250 y 150 z 12320',
         habitaciones: 5,
@@ -23,7 +23,7 @@ export const propiedades_venta = [
     },
     {
         nombre: 'Casa en medio del oceano Atlantico',
-        src: '../assets/img/casa_mar_venta.jpg',
+        src: '../../../assets/img/casa_mar_venta.jpg',
         descripcion: 'Casa lejos de las ciudades, se recomienda tener bote para llegar',
         ubicacion: 'Oceano Atlantico, EE.UU',
         habitaciones: 3,
