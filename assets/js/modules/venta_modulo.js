@@ -1,5 +1,38 @@
 export const propiedades_venta = [
     {
+        nombre: 'Casa con vista al mar',
+        src: '../../assets/img/casa_playa_venta.jpeg',
+        descripcion: 'Esta casa con una hermosa vista al mar es de las mas cotizadas apresurate!',
+        ubicacion: '123 Main Street,Anytown, CA 91234',
+        habitaciones: 2,
+        baños: 2,
+        costo: 9000,
+        smoke: true,
+        pets: true
+    },
+    {
+        nombre: 'Lujosa casa de madera de roble',
+        src: '../../assets/img/casa_minecraft_venta.jpeg',
+        descripcion: 'Hermosa y lujosa casa en el videojuego mas popular del mundo',
+        ubicacion: 'Coordenadas, x -10250 y 150 z 12320',
+        habitaciones: 5,
+        baños: 4,
+        costo: 1500,
+        smoke: false,
+        pets: true
+    },
+    {
+        nombre: 'Casa en medio del oceano Atlantico',
+        src: '../../assets/img/casa_mar_venta.jpg',
+        descripcion: 'Casa lejos de las ciudades, se recomienda tener bote para llegar',
+        ubicacion: 'Oceano Atlantico, EE.UU',
+        habitaciones: 3,
+        baños: 2,
+        costo: 7200,
+        smoke: true,
+        pets: false
+    },
+    {
         nombre: 'Apartamento de lujo en zona exclusiva',
         src: 'https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg',
         descripcion: 'Este apartamento de lujo está ubicado en una exclusiva zona residencial',
@@ -31,38 +64,5 @@ export const propiedades_venta = [
         costo: 4500,
         smoke: false,
         pets: true
-    },
-    {
-        nombre: 'Apartamento en el centro de la ciudad',
-        src: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBhcnRtZW50fGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60',
-        descripcion: 'Este apartamento de 2 habitaciones está ubicado en el corazón de la ciudad, cerca de todo.',
-        ubicacion: '123 Main Street,Anytown, CA 91234',
-        habitaciones: 2,
-        baños: 2,
-        costo: 2000,
-        smoke: false,
-        pets: true
-    },
-    {
-        nombre: 'Apartamento luminoso con vista al mar',
-        src: 'https://images.unsplash.com/photo-1669071192880-0a94316e6e09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
-        descripcion: 'Este hermoso apartamento ofrece una vista impresionante al mar',
-        ubicacion: '456 Ocean Avenue, Seaside Town, CA 56789',
-        habitaciones: 3,
-        baños: 3,
-        costo: 2500,
-        smoke: true,
-        pets: true
-    },
-    {
-        nombre: 'Condominio moderno en zona residencial',
-        src: 'https://images.unsplash.com/photo-1567496898669-ee935f5f647a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbmRvfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1000&q=60',
-        descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial',
-        ubicacion: '123 Main Street, Anytown, CA 91234',
-        habitaciones: 2,
-        baños: 2,
-        costo: 2200,
-        smoke: false,
-        pets: false
     }
 ];
