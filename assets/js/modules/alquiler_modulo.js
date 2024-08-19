@@ -1,7 +1,7 @@
 export const propiedades_alquiler = [
     {
         nombre: 'Apartamento de lujo en la luna',
-        src: '../assets/img/casa_luna_alquiler.jpg',
+        src: '../../../../assets/img/casa_luna_alquiler.jpg',
         descripcion: 'Este apartamento de lujo está ubicado en una de las zonas mas hermosas de la luna terrestre',
         ubicacion: '123 Luxury Lane, dune 15',
         habitaciones: 3,
@@ -12,7 +12,7 @@ export const propiedades_alquiler = [
     },
     {
         nombre: 'Casa pequeña en la superficie marciana',
-        src: '../assets/img/casa_marte_alquiler.avif',
+        src: '../../../../assets/img/casa_marte_alquiler.avif',
         descripcion: 'Esta pequeña casa se encuentra en las zonas pobladas de marte con hermosas vistas a la tierra',
         ubicacion: '789 Macian Montain, Sector 12',
         habitaciones: 1,
@@ -23,7 +23,7 @@ export const propiedades_alquiler = [
     },
     {
         nombre: 'Casa de lujo en medio del bosque',
-        src: '../assets/img/casa_bosque_alquiler.avif',
+        src: '../../../../assets/img/casa_bosque_alquiler.avif',
         descripcion: 'Esta casa en medio del bosque promete privacidad',
         ubicacion: '567 Amazonas, Amazonas, AM 56789',
         habitaciones: 2,
